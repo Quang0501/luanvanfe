@@ -1,0 +1,17 @@
+// li::marker
+// {
+//     content: "💩";
+//     font-size: 300px;
+// }   
+li::marker{
+    content: "👤";
+    white-space: nowrap;
+}
+
+.pagination{
+   
+    justify-content: center;
+}
+.btn-danger{
+    width: 70px;
+}
